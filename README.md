@@ -1,4 +1,4 @@
-This template is built on [smwhr's dendry starter pack](https://github.com/smwhr/dendry-starter-pack), with the addition of an editable sidebar and stylesheet. Everything else is mostly the same.
+This template is built on [smwhr's dendry starter pack](https://github.com/smwhr/dendry-starter-pack), with the addition of an editable sidebar and stylesheet. Everything else is mostly the same. 
 
 
 
